@@ -1,3 +1,6 @@
+#[Proje Anlatim Youtube videosu](https://www.youtube.com/watch?v=TFk7cvjDYhs&ab_channel=mert%C3%B6zkul)
+
+
 # Lastik Maliyet Analizi Projesi
 
 ## 📊 Proje Özeti

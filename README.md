@@ -130,4 +130,5 @@ Sonuç olarak, bu proje, lastik maliyetlerindeki değişimleri anlamak ve gelece
 ## 👥 İletişim
 
 - GitHub: [@YusufMerrt](https://github.com/YusufMerrt)
-- LinkedIn: [LinkedIn Profiliniz]([https://linkedin.com/in/kullaniciadi](https://www.linkedin.com/in/yusuf-mert-%C3%B6zkul/))
+- LinkedIn: [Yusuf Mert Özkul](https://www.linkedin.com/in/yusuf-mert-%C3%B6zkul/)
+

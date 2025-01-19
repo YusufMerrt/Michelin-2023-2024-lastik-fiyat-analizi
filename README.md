@@ -2,7 +2,7 @@
 
 ## 📊 Proje Özeti
 
-Bu proje, lastik sektöründeki maliyet değişimlerini analiz eden ve gelecek dönem tahminlemeleri yapan bir veri bilimi çalışmasıdır. 2023-2024 yılları arasında 1814 farklı lastik ürününün maliyet verilerini inceleyerek, sektördeki fiyat dinamiklerini ve etkileyen faktörleri ortaya çıkarmaktadır. Ayrıca, Express Otomotiv ve [Tiryakiler Otomotiv](link) firmalarının gerçek Michelin lastik fiyat bilgileri de bu analizde yer almaktadır.
+Bu proje, lastik sektöründeki maliyet değişimlerini analiz eden ve gelecek dönem tahminlemeleri yapan bir veri bilimi çalışmasıdır. 2023-2024 yılları arasında 1814 farklı lastik ürününün maliyet verilerini inceleyerek, sektördeki fiyat dinamiklerini ve etkileyen faktörleri ortaya çıkarmaktadır. Ayrıca, Express Otomotiv ve [Tiryakiler Otomotiv]([link](https://www.tiryakilerotomotiv.com/)) firmalarının gerçek Michelin lastik fiyat bilgileri de bu analizde yer almaktadır.
 
 ## 🎯 Amaç ve Kapsam
 
